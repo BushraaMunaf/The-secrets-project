@@ -1,8 +1,18 @@
 # The-secrets-project
 
-Welcome to the ** Secretsproject!** This project uses html for complete functonality.
+Welcome to the ** Secretsproject!** This project uses CSS, EJS and JavaScript for complete functonality.
 
-##Folder Structure: ... /birthday-invite Birthdayinvite.html #html code that contains any links, such as the google map link, in the invite Goal.png #an image that shows what the final birthday invite looks like Index.html #the html code that is used to create the birthday invite
+##Folder Structure:
+...
+#Background.css                                 #Used for the layout of the Website
+#footer.ejs                                     #Used for the layout of the footer for the website
+#header.ejs                                     #Used for the layout of the header of the website
+#Userinteraction.js and index.js                #Used for the user interaction with the wesbite to allow the user to 
+                                                generate secrets
+#check-solid.svg                                #Is the check logo used for the website
+#pencil-solid.svg                               #is the pencil logo used for the website
+#Queries.sql                                    #Is the SQL database that allows the user to create an account and 
+                                                sign into the website
 
 ...
 
